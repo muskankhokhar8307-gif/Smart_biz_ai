@@ -1,0 +1,3 @@
+product_name,category,price,unit_cost,stock,reorder_level
+Demo Mouse,Electronics,799.00,420.00,20,5
+Demo Notebook,Stationery,80.00,35.00,50,10
